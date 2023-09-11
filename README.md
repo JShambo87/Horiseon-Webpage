@@ -5,6 +5,8 @@ My motivation was help this compamy fix their website.
 
 To fix all the CSS and HTML coding in the starter code so it worked the same but adhered to the proper CSS styling and HTML formation.
 
+Link to Webpage: https://jshambo87.github.io/horiseon-webpage/
+
 MIT License
 
 Copyright (c) 2023 JShambo87
